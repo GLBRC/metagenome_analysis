@@ -46,3 +46,11 @@ contigs into two files. Each line in the file is a contig length.
 
 ## `make_histogram_boxplot_contig_lengths.R`
 Rscript to make histograms and boxplots from the contig length files.
+
+## `autoML.py`
+
+Scripts for machine learning, specifically on classifying MAGs from different agroindustrial residues using known lactic acid, chain elongators, and lachnospiraceae genomes. Results are from metabolism identification script for both training and testing files.
+
+Using [this site](https://www.freecodecamp.org/news/classification-with-python-automl/) as a guide.
+
+Requires pandas, numpy, and AutoML python modules
