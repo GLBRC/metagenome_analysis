@@ -54,3 +54,9 @@ Scripts for machine learning, specifically on classifying MAGs from different ag
 Using [this site](https://www.freecodecamp.org/news/classification-with-python-automl/) as a guide.
 
 Requires pandas, numpy, and AutoML python modules
+
+## `NMDS_R_commands_20220118.R`
+
+Script used to construct NMDS plots. All required files are located in the Example Files.
+
+Requires ggplot2, dplyr, cowplot, ggthemes, RColorBrewer, tidyverse, forcats, and vegan R libraries
